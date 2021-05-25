@@ -9,7 +9,7 @@
 > C, C++, Java, Python, Kotlin, C#, HTML, CSS, JavaScript, Bootstrap, React, Express, Flask, Django, REST API, Firebase Cloud Messaging
 <br/>
 
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypowar00&show_icons=true&custom_title=Jay%20Powar's%20GitHub%20Stats&theme=radical)](https://github-readme-stats.vercel.app/api?username=jaypowar00&show_icons=true) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypowar00&layout=compact&theme=radical&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypowar00&layout=compact&theme=radical&langs_count=8)
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaypowar00&show_icons=true&custom_title=Jay%20Powar's%20GitHub%20Stats&theme=radical)](https://github-readme-stats.vercel.app/api?username=jaypowar00&show_icons=true)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypowar00&layout=compact&theme=radical&langs_count=8)](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypowar00&layout=compact&theme=radical&langs_count=8)
 
 ### My Recent Projects:
 
