@@ -1,5 +1,5 @@
 # Hey There, I'm Jay Powar
-
+[![wakatime](https://wakatime.com/badge/user/7293504b-e51f-41db-ba94-4c0911fe9e63.svg)](https://wakatime.com/@7293504b-e51f-41db-ba94-4c0911fe9e63)
 ##### Who am I?
 - 🌐 Web Developer
 - 📱 Android Developer
