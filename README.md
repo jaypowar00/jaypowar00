@@ -16,5 +16,3 @@
 [![CSGeeks Blog Frontend](https://github-readme-stats.vercel.app/api/pin/?username=jaypowar00&repo=csgeeksblog&show_owner=true&theme=radical)](https://github.com/jaypowar00/csgeeksblog) &nbsp; [![Project TSI](https://github-readme-stats.vercel.app/api/pin/?username=jaypowar00&repo=project-TSI&show_owner=true&theme=radical)](https://github.com/jaypowar00/project-TSI)  
 [![AWT Chat App](https://github-readme-stats.vercel.app/api/pin/?username=jaypowar00&repo=AWTChattApp1.0&show_owner=true&theme=radical)](https://github.com/jaypowar00/AWTChattApp1.0) &nbsp; [![Helping Hearts](https://github-readme-stats.vercel.app/api/pin/?username=jaypowar00&repo=helping-hearts&show_owner=true&theme=radical)](https://github.com/jaypowar00/helping-hearts)
 
-### Current Active Projects:
-[![Watcha Doin](https://github-readme-stats.vercel.app/api/pin/?username=jaypowar00&repo=watchaDoin-Backend&show_owner=true&theme=radical)](https://github.com/jaypowar00/WatchaDoin-Backend) &nbsp;
