@@ -2,11 +2,12 @@
 [![wakatime](https://wakatime.com/badge/user/7293504b-e51f-41db-ba94-4c0911fe9e63.svg)](https://wakatime.com/@7293504b-e51f-41db-ba94-4c0911fe9e63)
 ##### Who am I?
 - 🌐 Web Developer
-- 📱 Android Developer
+- 📱 Android Developer(beginner)
+- 🎮 Game Developer (beginner)
 - Computer Science Engineer
 
 ##### What technologies do I know?
-> C, C++, Java, Python, Kotlin, C#, HTML, CSS, JavaScript, Bootstrap, React, Express, Flask, Django, REST API, Firebase Cloud Messaging
+> C, C++, Java, Python, Kotlin, C#, HTML, CSS, JavaScript, Bootstrap, React, NextJs, Express, Flask, Django, Django Channels , Django Reat Framework, Firebase Cloud Messaging
 <br/>
 
 [![Jay's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaypowar00&show_icons=true&custom_title=Jay%20Powar's%20GitHub%20Stats&theme=radical)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jaypowar00&show_icons=true&custom_title=Jay%20Powar's%20GitHub%20Stats&theme=radical)&nbsp;[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaypowar00&layout=compact&theme=radical&langs_count=8)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jaypowar00&layout=compact&theme=radical&langs_count=8)
